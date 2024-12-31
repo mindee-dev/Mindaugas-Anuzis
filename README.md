@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Mindaugas-Anužis
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning javascript and react.js
 - 📫 You can reach me via email: mindaugasanuzhis@gmail.com
 
 <!---
